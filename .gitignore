@@ -1,0 +1,14 @@
+# System files
+.DS_Store
+.bash_profile
+.CFUserTextEncoding
+.lesshst
+.gitconfig
+
+# Cache and installation directories
+.cache/
+.codeium/
+.codegpt/
+
+# IDE settings
+.vscode/
